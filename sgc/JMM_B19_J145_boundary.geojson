@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7824 .C415 S10 .J3", "FIRST_Labe": "Ichimanbun no ichi chikeizu Shinky? kinb?", "FIRST_Titl": "Ichimanbun no ichi chikeizu Shinkyō kinbō -- Shinkyō kinbō -- Manchuria : Ch'ang-Ch'un, (Hsinking) and vicinity -- 一万分一地形圖新京近傍 -- 新京近傍", "FIRST_Ckey": "10425360", "SUM_sheet": 6.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=d1c542fe420148df915f8508fa5860f6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 125.325073242187472, 43.833312988281257 ], [ 125.275085449218793, 43.833312988281257 ], [ 125.275085449218793, 43.866699218750014 ], [ 125.275085449218793, 43.900085449218771 ], [ 125.275085449218793, 43.933288574218786 ], [ 125.325073242187472, 43.933288574218786 ], [ 125.375122070312543, 43.933288574218786 ], [ 125.375122070312543, 43.900085449218771 ], [ 125.375122070312543, 43.866699218750014 ], [ 125.375122070312543, 43.833312988281257 ], [ 125.325073242187472, 43.833312988281257 ] ] ] } }
+]
+}

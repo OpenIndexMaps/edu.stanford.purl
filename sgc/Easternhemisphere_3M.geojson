@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G5671 .P6 S3000 .J3", "FIRST_Labe": "Sanbyakumanbunnoichi ?a K?k?zu", "FIRST_Titl": "Sanbyakumanbunnoichi Ōa Kōkūzu -- Ōa Kōkūzu -- 三百万分一歐亞航空圖 -- 歐亞航空圖", "FIRST_Ckey": "10496600", "SUM_sheet": 6.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=a7d93bf29b974fd4a480df2bc4e826ab" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 60.0, 30.5 ], [ 60.0, 10.0 ], [ 30.0, 10.0 ], [ 30.0, 29.833333 ], [ 30.0, 30.5 ], [ 0.0, 30.5 ], [ -15.0, 30.5 ], [ -15.0, 47.333333 ], [ 0.0, 47.333333 ], [ 0.0, 60.333333 ], [ 30.0, 60.333333 ], [ 60.0, 60.333333 ], [ 60.0, 47.333333 ], [ 60.0, 30.5 ] ] ] } }
+]
+}

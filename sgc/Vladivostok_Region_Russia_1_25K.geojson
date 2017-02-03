@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7064 .V56 S25 .J3", "FIRST_Labe": "Urajio kinb? niman-gosenbun no ichi zu", "FIRST_Titl": "Urajio kinbō niman-gosenbun no ichi zu -- 浦潮近傍二万五千分一圖", "FIRST_Ckey": "9607938", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=a4e8e60aede948b0b6bbfc1883ba94db", "Sum_Sheet": "5" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 131.8125, 42.916666 ], [ 131.6875, 42.916666 ], [ 131.6875, 43.0 ], [ 131.75, 43.0 ], [ 131.75, 43.083332499999976 ], [ 131.875, 43.083332499999976 ], [ 131.875, 43.166665 ], [ 132.0, 43.166665 ], [ 132.0, 43.083332499999976 ], [ 132.0, 43.0 ], [ 131.9375, 43.0 ], [ 131.9375, 42.916666 ], [ 131.8125, 42.916666 ] ] ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Ckey": "9607938", "Symph_Bar": "36105216328299", "Call_Num": "G7064 .V56 S25 .J3 SHEET 8", "Label": "Urajio kinb? niman-gosenbun no ichi zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "9607938", "Symph_Bar": "36105216327754", "Call_Num": "G7064 .V56 S25 .J3 SHEET 9", "Label": "Urajio kinb? niman-gosenbun no ichi zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "9607938", "Symph_Bar": "36105216327762", "Call_Num": "G7064 .V56 S25 .J3 SHEET 10", "Label": "Urajio kinb? niman-gosenbun no ichi zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "9607938", "Symph_Bar": "36105216327770", "Call_Num": "G7064 .V56 S25 .J3 SHEET 11", "Label": "Urajio kinb? niman-gosenbun no ichi zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "9607938", "Symph_Bar": "36105216327788", "Call_Num": "G7064 .V56 S25 .J3 SHEET 12", "Label": "Urajio kinb? niman-gosenbun no ichi zu" }, "geometry": null }
+]
+}

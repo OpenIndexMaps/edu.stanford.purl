@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G9412 .S3 S25 .J3", "FIRST_Labe": "Niman-gosenbun no ichi chikeizu Saipant?", "FIRST_Titl": "Niman-gosenbun no ichi chikeizu Saipantō -- Saipantō -- 二万五千分一地形圖サイパン島 -- サイパン島", "FIRST_Ckey": "10425403", "SUM_sheet": 5.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=936bf84bc04e43269a0aa415bb319941" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 145.8, 15.083333 ], [ 145.7, 15.083333 ], [ 145.7, 15.166666333333335 ], [ 145.7, 15.249999666666682 ], [ 145.7, 15.333333 ], [ 145.8, 15.333333 ], [ 145.9, 15.333333 ], [ 145.9, 15.249999666666682 ], [ 145.9, 15.166666333333335 ], [ 145.8, 15.166666333333335 ], [ 145.8, 15.083333 ] ] ] } }
+]
+}

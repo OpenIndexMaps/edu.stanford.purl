@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8182 .A2 S100 .J3", "FIRST_Labe": "K?ch? shashin sokuzu y?zu Adomirarut? Shot? J?manbun no ichi.", "FIRST_Titl": "Kūchū shashin sokuzu yōzu Adomirarutī Shotō Jūmanbun no ichi -- Adomirarutī Shotō -- 空中写真測図要図アドミラルティ諸島十万分一 -- アドミラルティ諸島", "FIRST_Ckey": "10550201", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=a86463e295074dbd982fa1b0a28fd01f", "Sum_Sheet": "6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 147.0, -2.333333666666674 ], [ 147.0, -2.666667 ], [ 146.5, -2.666667 ], [ 146.5, -2.333333666666674 ], [ 146.0, -2.333333666666674 ], [ 146.0, -2.000000333333377 ], [ 146.5, -2.000000333333377 ], [ 146.5, -1.666667 ], [ 147.0, -1.666667 ], [ 147.5, -1.666667 ], [ 147.5, -2.000000333333377 ], [ 147.5, -2.333333666666674 ], [ 147.0, -2.333333666666674 ] ] ] } }
+]
+}

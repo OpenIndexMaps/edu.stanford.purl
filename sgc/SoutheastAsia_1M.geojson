@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8031 .P6 S1000 .J3", "FIRST_Labe": "Hyakumanbun no ichi nanbu k?k?zu", "FIRST_Titl": "Hyakumanbun no ichi nanbu kōkūzu -- 百萬分一南部航空圖", "FIRST_Ckey": "10160337", "SUM_sheet": 3.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=c80f8f6dc75949c79e0f398cd60024a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 105.0, 14.0 ], [ 105.0, 5.675 ], [ 106.166667, 5.675 ], [ 106.166667, -1.0 ], [ 96.838889, -1.0 ], [ 96.838889, 1.841666699999974 ], [ 94.166667, 1.841666699999974 ], [ 94.166667, 6.166667 ], [ 96.838889, 6.166667 ], [ 96.838889, 5.675 ], [ 98.33333, 5.675 ], [ 98.33333, 14.0 ], [ 105.0, 14.0 ] ] ] } }
+]
+}

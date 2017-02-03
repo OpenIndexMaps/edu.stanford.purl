@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221065712", "Call_Num": "G7322 .U8 S50 .J3 SHEET 1", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221089597", "Call_Num": "G7322 .U8 S50 .J3 SHEET 2", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221089605", "Call_Num": "G7322 .U8 S50 .J3 SHEET 3", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221089613", "Call_Num": "G7322 .U8 S50 .J3 SHEET 4", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221089621", "Call_Num": "G7322 .U8 S50 .J3 SHEET 5", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null },
+{ "type": "Feature", "properties": { "Ckey": "10496629", "Symph_Bar": "36105221089639", "Call_Num": "G7322 .U8 S50 .J3 SHEET 6", "Label": "Shiberia Gomanbunnoichi Zu" }, "geometry": null }
+]
+}

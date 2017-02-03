@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7800 S500 .J3", "FIRST_Titl": "五十万分一地誌圖 - Gojūmanbun no ichi Chishizu", "FIRST_Ckey": "10780180", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=39706e8fa7744792a00b6e42631cbd7b", "Sum_Sheet": "4" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 115.0, 46.666666499999984 ], [ 110.0, 46.666666499999984 ], [ 110.0, 50.0 ], [ 115.0, 50.0 ], [ 115.0, 46.666666499999984 ] ] ], [ [ [ 135.0, 43.333333 ], [ 130.0, 43.333333 ], [ 130.0, 46.666666499999984 ], [ 135.0, 46.666666499999984 ], [ 135.0, 50.0 ], [ 140.0, 50.0 ], [ 140.0, 46.666666499999984 ], [ 140.0, 43.333333 ], [ 135.0, 43.333333 ] ] ] ] } }
+]
+}

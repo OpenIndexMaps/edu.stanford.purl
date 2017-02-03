@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7895 S1000 .J3", "FIRST_Labe": "M?ko hyakumanbun no ichi zu", "FIRST_Titl": "Mōko hyakumanbun no ichi zu: Rohan kaibyō -- 蒙古百万分一圖: 露版改描", "FIRST_Ckey": "9690663", "SUM_sheet": 6.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=0cb3fbb01960459698d238a7ceadd949" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 114.0, 40.0 ], [ 108.0, 40.0 ], [ 108.0, 44.0 ], [ 108.0, 48.0 ], [ 108.0, 52.0 ], [ 114.0, 52.0 ], [ 120.0, 52.0 ], [ 120.0, 48.0 ], [ 120.0, 44.0 ], [ 120.0, 40.0 ], [ 114.0, 40.0 ] ] ] } }
+]
+}

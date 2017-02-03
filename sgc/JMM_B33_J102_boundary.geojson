@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8062 .L8 S50 .J31", "FIRST_Titl": "假製呂宋島五万分一圖 - Kasei Rusontō Gomanbunnoichi Zu", "FIRST_Ckey": "10553717", "SUM_sheet": 5.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=53f6d3bab4ea4c99adccbe91cb5b4fff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 120.527777666666637, 13.5 ], [ 120.13888883333334, 13.5 ], [ 120.13888883333334, 13.833333333333357 ], [ 120.527777666666637, 13.833333333333357 ], [ 120.527777666666637, 14.166666666666654 ], [ 120.916666500000034, 14.166666666666654 ], [ 121.305555333333331, 14.166666666666654 ], [ 121.305555333333331, 13.833333333333357 ], [ 121.305555333333331, 13.5 ], [ 120.916666500000034, 13.5 ], [ 120.527777666666637, 13.5 ] ] ] } }
+]
+}

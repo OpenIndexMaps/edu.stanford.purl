@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8132 .T3 S100 .J3", "FIRST_Labe": "K?ch? shashin sokuzu y?zu Taninbaru Shot? j?manbun no ichi zu.", "FIRST_Titl": "Kūchū shashin sokuzu yōzu Taninbaru Shotō jūmanbun no ichi zu -- Taninbaru Shotō jūmanbun no ichi zu -- 空中寫真測圖要圖タニンバル諸島十万分一圖 -- タニンバル諸島十万分一圖", "FIRST_Ckey": "10550241", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=52ae77c1f3be4028b28338c170ffbd69", "Sum_Sheet": "10" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 132.0, -7.666662 ], [ 132.0, -7.999996 ], [ 131.5, -7.999996 ], [ 131.5, -8.33333 ], [ 131.0, -8.33333 ], [ 130.5, -8.33333 ], [ 130.5, -7.999996 ], [ 131.0, -7.999996 ], [ 131.0, -7.666662 ], [ 130.5, -7.666662 ], [ 130.5, -7.333328 ], [ 131.0, -7.333328 ], [ 131.0, -6.999994 ], [ 131.5, -6.999994 ], [ 131.5, -6.66666 ], [ 132.0, -6.66666 ], [ 132.0, -6.999994 ], [ 132.0, -7.333328 ], [ 132.0, -7.666662 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7963 .C4 S10 .J3", "FIRST_Labe": "Ichimanbun no ichi chikeizu Shimoshizu oyobi Narashinohara kinb?", "FIRST_Titl": "Ichimanbun no ichi chikeizu Shimoshizu oyobi Narashinohara kinbō -- 一万分一地形圖下志津及習志野原近傍", "FIRST_Ckey": "10645352", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=d567e1abffc6489fac7075bb58687572", "Sum_Sheet": "2" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 140.102778, 35.6 ], [ 140.052778, 35.6 ], [ 140.052778, 35.63333250000003 ], [ 140.102778, 35.63333250000003 ], [ 140.102778, 35.6 ] ] ], [ [ [ 140.202778, 35.666665 ], [ 140.152778, 35.666665 ], [ 140.152778, 35.699997499999974 ], [ 140.202778, 35.699997499999974 ], [ 140.202778, 35.666665 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8000 S2000 .J3", "FIRST_Labe": "Nihyakumanbunnoichi Nanp?zu", "FIRST_Titl": "Nihyakumanbunnoichi Nanpōzu -- 二百万分一南方圖", "FIRST_Ckey": "10496422", "SUM_sheet": 8.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=6d166917e3f24d7f8bb42d7af9055017" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 106.0, 25.833333 ], [ 106.0, 20.0 ], [ 114.0, 20.0 ], [ 114.666667, 20.0 ], [ 127.0, 20.0 ], [ 127.0, 8.0 ], [ 138.0, 8.0 ], [ 138.0, -10.0 ], [ 135.0, -10.0 ], [ 135.0, -16.5 ], [ 122.0, -16.5 ], [ 122.0, -11.0 ], [ 117.0, -11.0 ], [ 117.0, -10.5 ], [ 106.333333, -10.5 ], [ 106.333333, -6.333333 ], [ 95.0, -6.333333 ], [ 95.0, 11.666667 ], [ 96.0, 11.666667 ], [ 96.0, 13.166667 ], [ 88.0, 13.166667 ], [ 88.0, 25.833333 ], [ 106.0, 25.833333 ] ] ] } }
+]
+}

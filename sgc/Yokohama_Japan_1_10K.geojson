@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7964 .Y6 1939 .J3", "FIRST_Labe": "Ichimanbun no ichi chikeizu Yokohama kinb?", "FIRST_Titl": "Ichimanbun no ichi chikeizu Yokohama kinbō -- 一万分一地形圖横濱近傍", "FIRST_Ckey": "10645354", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=96a2c00a9d484bc8af762bf046a1c0c8", "Sum_Sheet": "3" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 139.55, 35.500000250000028 ], [ 139.55, 35.466667 ], [ 139.5, 35.466667 ], [ 139.5, 35.500000250000028 ], [ 139.55, 35.500000250000028 ] ] ], [ [ [ 139.55, 35.500000250000028 ], [ 139.55, 35.533333499999976 ], [ 139.6, 35.533333499999976 ], [ 139.6, 35.500000250000028 ], [ 139.55, 35.500000250000028 ] ] ], [ [ [ 139.6, 35.533333499999976 ], [ 139.6, 35.56666675000001 ], [ 139.65, 35.56666675000001 ], [ 139.65, 35.533333499999976 ], [ 139.6, 35.533333499999976 ] ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7800 S200 .J4", "FIRST_Titl": "満洲及西伯利兵要二十万分一圖 - Manshū oyobi Shiberi heiyō nijūmanbun no ichi zu", "FIRST_Ckey": "10648459", "SUM_sheet": 3.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=475d829ec9a84aafa6ac991a4d35ee1c" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 128.5, 45.333333 ], [ 127.5, 45.333333 ], [ 127.5, 45.999999666666675 ], [ 127.5, 46.666666333333353 ], [ 127.5, 47.333333 ], [ 128.5, 47.333333 ], [ 128.5, 46.666666333333353 ], [ 128.5, 45.999999666666675 ], [ 128.5, 45.333333 ] ] ] } }
+]
+}

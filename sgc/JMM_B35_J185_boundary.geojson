@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7800 S200 .J3", "FIRST_titl": "二十万分一地誌圖 - Nijūmanbun no ichi Chishizu", "FIRST_Ckey": "10651269", "SUM_sheet": 6.0, "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=b57db9253b994bda935a85a19fd2162e" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 117.0, 52.0 ], [ 117.0, 51.33333333333335 ], [ 118.0, 51.33333333333335 ], [ 118.0, 50.666666666666671 ], [ 118.0, 50.0 ], [ 117.0, 50.0 ], [ 116.0, 50.0 ], [ 116.0, 50.666666666666671 ], [ 116.0, 51.33333333333335 ], [ 116.0, 52.0 ], [ 117.0, 52.0 ] ] ], [ [ [ 121.0, 51.33333333333335 ], [ 120.0, 51.33333333333335 ], [ 120.0, 52.0 ], [ 121.0, 52.0 ], [ 121.0, 51.33333333333335 ] ] ] ] } }
+]
+}

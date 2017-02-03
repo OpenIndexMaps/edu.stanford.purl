@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G8064 .D245 S50 .J3", "FIRST_Labe": "Dabao Kinb?zu", "FIRST_Titl": "Dabao Kinbōzu -- ダバオ近傍圖", "FIRST_Ckey": "10532136", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=fbf74326c29945118d5642f061647e74", "Sum_Sheet": "8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 125.75, 7.3333 ], [ 125.75, 7.166625 ], [ 126.0, 7.166625 ], [ 126.0, 6.99995 ], [ 125.849301821137018, 6.99995 ], [ 125.849301821137018, 6.833275 ], [ 125.599301821137061, 6.833275 ], [ 125.599301821137061, 6.99995 ], [ 125.5, 6.99995 ], [ 125.5, 6.833275 ], [ 125.5, 6.6666 ], [ 125.25, 6.6666 ], [ 125.0, 6.6666 ], [ 125.0, 6.833275 ], [ 125.25, 6.833275 ], [ 125.25, 6.99995 ], [ 125.25, 7.166625 ], [ 125.5, 7.166625 ], [ 125.5, 7.3333 ], [ 125.75, 7.3333 ] ] ] } }
+]
+}

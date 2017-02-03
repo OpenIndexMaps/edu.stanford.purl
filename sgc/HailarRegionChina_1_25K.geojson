@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "FIRST_Call": "G7824 .H135 A1 S25 .J3", "FIRST_Labe": "Hailaerh fukin zu", "FIRST_Titl": "Hailaerh fukin zu -- 海拉爾付近圖", "FIRST_Ckey": "9937988", "FIRST_web_": "http:\/\/stanford.maps.arcgis.com\/apps\/SimpleViewer\/index.html?appid=8beabe87e7584eb18c00195fe01b1b23", "Sum_Sheet": "4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 119.775085449218736, 49.066711425781257 ], [ 119.550109863281236, 49.066711425781257 ], [ 119.550109863281236, 49.233276367187464 ], [ 119.550109863281236, 49.400085449218729 ], [ 119.775085449218736, 49.400085449218729 ], [ 120.000122070312457, 49.400085449218729 ], [ 120.000122070312457, 49.233276367187464 ], [ 120.000122070312457, 49.066711425781257 ], [ 119.775085449218736, 49.066711425781257 ] ] ] } }
+]
+}
